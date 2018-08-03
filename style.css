@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to left, #92fe9d 0%, #00c9ff 100%);
+    font-size: 16px;
+}
+
+header {
+    padding: 0;
+    height: 3rem;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8)
+}
+
+header h1 {
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    font-size: 3rem;
+    font-family: "youngserifregular";
+}
